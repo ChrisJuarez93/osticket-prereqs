@@ -40,25 +40,28 @@ For the fist prerequisite in order to enable IIS in Windows with CGI I had to go
 <br />
 
 <p>
-<img src="https://i.imgur.com/lpR9Rka.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/SQZVlSP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-For the second prerequsitie I 
+For the fist prerequisite in order to enable IIS in Windows with CGI I had to go to the control panel, select programs then turn Windows Feature on or off. After selecting the feature I clicked IIS, expanded World Wide Web Services, expanded Application Development Feature, and then turned on CGI
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/OSAZgmj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/4hweNC4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+For the fist prerequisite in order to enable IIS in Windows with CGI I had to go to the control panel, select programs then turn Windows Feature on or off. After selecting the feature I clicked IIS, expanded World Wide Web Services, expanded Application Development Feature, and then turned on CGI
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/yBPb54z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/jDckMfu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+For the fist prerequisite in order to enable IIS in Windows with CGI I had to go to the control panel, select programs then turn Windows Feature on or off. After selecting the feature I clicked IIS, expanded World Wide Web Services, expanded Application Development Feature, and then turned on CGI
 </p>
 <br />
